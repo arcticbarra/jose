@@ -34,7 +34,7 @@ Please adhere to this code of conduct in any interactions you have in the JOSS c
 
 ## Contributing
 
-[![Build Status](https://travis-ci.org/openjournals/joss.svg?branch=master)](https://travis-ci.org/openjournals/joss)
+[![Build Status](https://travis-ci.org/openjournals/jose.svg?branch=master)](https://travis-ci.org/openjournals/jose)
 
 1. Fork it
 2. Create your feature branch (`git checkout -b my-new-feature`)
