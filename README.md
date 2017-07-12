@@ -1,36 +1,47 @@
-# The Journal of Open Source Software
+# The Journal of Open Source Education
 
-The [Journal of Open Source Software](http://joss.theoj.org) (JOSS) is a developer friendly journal for research software packages.
+The [Journal of Open Source Education](http://jose.theoj.org) (JOSE, tentative name) is a journal for open educational software and open-source educational content.
 
-### What exactly do you mean by 'journal'
+JOSE is a sibling journal to the [Journal of Open Source Software](http://joss.theoj.org) (JOSS), which publishes open research software. 
+JOSE relies on the journal management infrastructure and tools developed for JOSS.
 
-The Journal of Open Source Software (JOSS) is an academic journal with a formal peer review process that is designed to _improve the quality of the software submitted_. Upon acceptance into JOSS, a CrossRef DOI is minted and we list your paper on the JOSS website.
+JOSE publishes two types of (brief) articles that describe:
 
-### Don't we have enough journals already?
+ 1. open educational software 
+ 
+ 2. open-source educational materials
 
-Perhaps, and in a perfect world we'd rather papers about software weren't necessary but we recognize that for most researchers, papers and not software are the currency of academic research and that citations are required for a good career.
+### Why is this journal needed?
 
-We built this journal because we believe that after you've done the hard work of writing great software, it shouldn't take weeks and months to write a paper<sup>1</sup> about your work.
+Currently, academia lacks a mechanism for crediting efforts to develop software for assisting teaching and learning or open-source educational content. As a result, beyond personal motivation, there is little incentive to develop and share such material.
 
-### You said developer friendly, what do you mean?
+The Journal of Open Source Education (JOSE) is a scholarly journal with a formal peer review process designed to _improve the quality of the software or content submitted_. Upon acceptance into JOSE, a CrossRef DOI is minted and we list your paper on the JOSE website.
 
-We have a simple submission workflow and extensive documentation to help you prepare your submission. If your software is already well documented then paper preparation should take no more than an hour.
+### What do you mean by "open-source educational materials"?
 
-<sup>1</sup> After all, this is just advertising.
+`TODO`
+
+We do *not* mean openly available slides, lecture notes, or YouTube videos, though these may be acceptable as supplementary materials.
+
+
+### Scope
+
+We consider submissions from all areas of academia, although our computational focus may result in more natural submissions from STEM fields—but all are welcome!
+
 
 ## The site
 
-The JOSS submission tool is hosted at http://joss.theoj.org
+`TODO`: The JOSE submission tool is hosted at http://jose.theoj.org
 
-## JOSS Reviews
+## JOSE Reviews
 
-If you're looking for the JOSS reviews repository head over here: https://github.com/openjournals/joss-reviews/issues
+If you're looking for the JOSE reviews repository head over here: https://github.com/openjournals/jose-reviews/issues
 
 ## Code of Conduct
 
-In order to have a more open and welcoming community, JOSS adheres to a code of conduct adapted from the [Contributor Covenant](http://contributor-covenant.org) code of conduct.
+In order to ensure an open and welcoming community, JOSE adheres to a code of conduct adapted from the [Contributor Covenant](http://contributor-covenant.org) code of conduct.
 
-Please adhere to this code of conduct in any interactions you have in the JOSS community. It is strictly enforced on all official JOSS repositories, the JOSS website, and resources. If you encounter someone violating these terms, please let the Editor-in-Chief ([@arfon](https://github.com/arfon)) or someone on the [editorial board](http://joss.theoj.org/about#editorial_board) know and we will address it as soon as possible.
+Please adhere to this code of conduct in any interactions you have in the JOSS community. It is strictly enforced on all official JOSE repositories, the JOSE website, and resources. If you encounter someone violating these terms, please let the Editor-in-Chief ([@labarba](https://github.com/labarba)) or someone on the [editorial board](http://jose.theoj.org/about#editorial_board) know and we will address it as soon as possible.
 
 ## Contributing
 
