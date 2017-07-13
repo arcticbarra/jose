@@ -7,28 +7,35 @@ JOSE relies on the journal management infrastructure and tools developed for JOS
 
 JOSE publishes two types of (brief) articles that describe:
 
- 1. open educational software 
+ 1. open educational software tools
  
  2. open-source educational materials
 
 ### Why is this journal needed?
 
-Currently, academia lacks a mechanism for crediting efforts to develop software for assisting teaching and learning or open-source educational content. As a result, beyond personal motivation, there is little incentive to develop and share such material.
+Currently, academia lacks a mechanism for crediting efforts to develop software for assisting teaching and learning *or* open-source educational content. As a result, beyond personal motivation, there is little incentive to develop and share such material.
 
 The Journal of Open Source Education (JOSE) is a scholarly journal with a formal peer review process designed to _improve the quality of the software or content submitted_. Upon acceptance into JOSE, a CrossRef DOI is minted and we list your paper on the JOSE website.
 
 ### What do you mean by "open-source educational materials"?
 
-`TODO`
+Examples include Jupyter notebooks or plaintext/markup language documents like LaTeX, R Markdown, and ReST for course/lesson content and associated notes, with embedded or associated code snippets/programs.
 
-We do *not* mean openly available slides, lecture notes, or YouTube videos, though these may be acceptable as supplementary materials.
+We do **not** mean openly available slides, lecture notes, or YouTube videos, though these may be acceptable as supplementary materials. In addition, course syllabi by themselves are not suitable for submission ([*Syllabus*](http://syllabusjournal.org/) may be more appropriate).
 
+tl;dr: your course or lesson content must contain or use code to teach. We are not focused exclusively on learning to code, but coding to learn.
+
+### What do you mean by "educational software tools"?
+
+Open-source software that serves as educational technology; examples include (but are not limited to) alternatives to learning management systems, autograders, cloud systems for lesson delivery, student collaboration tools. For these tools, peer review will follow a similar process as [JOSS](http://joss.theoj.org/about#reviewer_guidelines).
 
 ### Scope
 
-`TODO`
-
 We consider submissions from all areas of academia, although our computational focus may result in more natural submissions from STEM fields—but all are welcome!
+
+Submissions must be "feature complete" to the extent that another educator could adopt, reuse, and/or extend for their purposes. 
+
+The ideal submission size is a course *module*, although entire courses are also acceptable.
 
 ## The team
 
@@ -42,6 +49,7 @@ The editorial board includes:
 
 Advisors to the journal include:
  - Carly Strasser
+
 
 ## The site
 
