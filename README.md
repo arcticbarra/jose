@@ -1,6 +1,6 @@
 # The Journal of Open Source Education
 
-The [Journal of Open Source Education](http://jose.theoj.org) (JOSE, tentative name) is a journal for open educational software and open-source educational content.
+The [Journal of Open Source Education](http://jose.theoj.org) (JOSE, pronounced [hoe-zay]) is a journal for open educational software and open-source educational content.
 
 JOSE is a sibling journal to the [Journal of Open Source Software](http://joss.theoj.org) (JOSS), which publishes open research software. 
 JOSE relies on the journal management infrastructure and tools developed for JOSS.
