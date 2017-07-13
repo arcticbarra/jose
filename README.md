@@ -26,8 +26,22 @@ We do *not* mean openly available slides, lecture notes, or YouTube videos, thou
 
 ### Scope
 
+`TODO`
+
 We consider submissions from all areas of academia, although our computational focus may result in more natural submissions from STEM fields—but all are welcome!
 
+## The team
+
+The editorial board includes:
+ - Lorena Barba, editor-in-chief
+ - Katy Huff
+ - Jason Moore
+ - Kyle Niemeyer
+ - Anthony Scopatz
+ - Tracy Teal
+
+Advisors to the journal include:
+ - Carly Strasser
 
 ## The site
 
