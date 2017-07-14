@@ -61,11 +61,11 @@ Advisors to the journal include:
 
 ## The site
 
-`TODO`: The JOSE submission tool is hosted at http://jose.theoj.org
+:construction: The JOSE submission tool will be hosted at http://jose.theoj.org.
 
 ## JOSE Reviews
 
-If you're looking for the JOSE reviews repository head over here: https://github.com/openjournals/jose-reviews/issues
+If you're looking for the JOSE reviews repository, head over here: https://github.com/openjournals/jose-reviews/issues
 
 ## Code of Conduct
 
