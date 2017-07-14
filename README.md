@@ -1,5 +1,8 @@
 # The Journal of Open Source Education
 
+[![Join the chat at https://gitter.im/openjournals/jose](https://badges.gitter.im/openjournals/jose.svg)](https://gitter.im/openjournals/jose?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+[![Build Status](https://travis-ci.org/openjournals/jose.svg?branch=master)](https://travis-ci.org/openjournals/jose)
+
 The [Journal of Open Source Education](http://jose.theoj.org) (JOSE, pronounced [hoe-zay]) is a journal for open educational software and open-source educational content.
 
 JOSE is a sibling journal to the [Journal of Open Source Software](http://joss.theoj.org) (JOSS), which publishes open research software. 
@@ -66,8 +69,6 @@ In order to ensure an open and welcoming community, JOSE adheres to a code of co
 Please adhere to this code of conduct in any interactions you have in the JOSS community. It is strictly enforced on all official JOSE repositories, the JOSE website, and resources. If you encounter someone violating these terms, please let the Editor-in-Chief ([@labarba](https://github.com/labarba)) or someone on the [editorial board](http://jose.theoj.org/about#editorial_board) know and we will address it as soon as possible.
 
 ## Contributing
-
-[![Build Status](https://travis-ci.org/openjournals/jose.svg?branch=master)](https://travis-ci.org/openjournals/jose)
 
 1. Fork it
 2. Create your feature branch (`git checkout -b my-new-feature`)
