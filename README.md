@@ -48,15 +48,16 @@ The ideal submission size is a course *module*, although entire courses are also
 ## The team
 
 The editorial board includes:
- - Lorena Barba, editor-in-chief
- - Katy Huff
- - Jason Moore
- - Kyle Niemeyer
- - Anthony Scopatz
- - Tracy Teal
+ - Lorena Barba (editor-in-chief), George Washington University
+ - Katy Huff, University of Illinois at Urbana–Champaign
+ - Jason Moore, University of California, Davis
+ - Kyle Niemeyer, Oregon State University
+ - Anthony Scopatz, University of South Carolina
+ - Robert Talbert, Grand Valley State University
+ - Tracy Teal, Data Carpentry
 
 Advisors to the journal include:
- - Carly Strasser
+ - Carly Strasser, Moore Foundation
 
 
 ## The site
